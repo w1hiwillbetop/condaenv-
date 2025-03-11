@@ -13,4 +13,4 @@ Special Library Versions to Note:
 keras==2.10.0; matplotlib==3.7.2; opencv-python==4.10.0; pytorch==2.4.1; sk-learn (scikit-learn)==1.3.0; numpy==1.24.3; tf==2.10.0;
 
 environment.yml:
-Use the command conda env create -f environment.yml to create this virtual environment on your computer.
+Use the command，you scanf this code like: conda env create -f environment.yml to create this virtual  conda environment on your computer.
